@@ -1,0 +1,3 @@
+Please download the MSRA dataset in the following link and put it in this folder.
+
+https://www.dropbox.com/s/bmx2w0zbnyghtp7/cvpr15_MSRAHandGestureDB.zip?dl=0
